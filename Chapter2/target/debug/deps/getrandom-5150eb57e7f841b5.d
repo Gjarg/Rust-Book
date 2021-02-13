@@ -1,0 +1,11 @@
+C:\Users\Gaetan\Documents\GitHub\Rust_book\Rust-Book\Chapter2\target\debug\deps\getrandom-5150eb57e7f841b5.rmeta: C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\lib.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\util.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error_impls.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\windows.rs
+
+C:\Users\Gaetan\Documents\GitHub\Rust_book\Rust-Book\Chapter2\target\debug\deps\libgetrandom-5150eb57e7f841b5.rlib: C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\lib.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\util.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error_impls.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\windows.rs
+
+C:\Users\Gaetan\Documents\GitHub\Rust_book\Rust-Book\Chapter2\target\debug\deps\getrandom-5150eb57e7f841b5.d: C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\lib.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\util.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error_impls.rs C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\windows.rs
+
+C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\lib.rs:
+C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error.rs:
+C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\util.rs:
+C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\error_impls.rs:
+C:\Users\Gaetan\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.2\src\windows.rs:
