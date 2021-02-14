@@ -6,7 +6,7 @@ fn main() {
     let mut min_possible_secret: i32 = 1;
     let mut max_possible_secret: i32 = 100;
     let my_number: i32 = functions::get_number();
-    let mut computer_number: i32 = thread_rng().gen_range(1..101);
+    let mut computer_number: i32 = thread_rng().gen_range(1,101);
     println!("This is the computer number: {}", computer_number);
 
     loop {
