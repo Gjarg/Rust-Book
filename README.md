@@ -1,6 +1,7 @@
 # Rust-Book
 ## Learning Rust with the official book
 
+Chapter 6 : Done. Plus, exercice on tenperature conversion in chap 3 done with match and enum.
 
 Chapter 5 : Done.
 
